@@ -28,5 +28,5 @@ I found that controller gains depend on the vehicle speed, so I added a normaliz
 To control speed I apply throttle adjustment proportional to derivative term (main.cpp, line 71).
 
 #### The implemented controller in action
-[![PID controller in action](video_image.png)](https://youtu.be/5VlOHSO1lUw)
+[![PID controller in action](images/video_image.png)](https://youtu.be/5VlOHSO1lUw)
 
