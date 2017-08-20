@@ -1,6 +1,7 @@
 # CarND-Controls-PID
 Self-Driving Car Engineer Nanodegree Program
 
+[![PID controller in action](images/video_image.png)](https://youtu.be/5VlOHSO1lUw)
 ---
 
 ## Dependencies
